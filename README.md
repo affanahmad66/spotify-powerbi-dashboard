@@ -4,7 +4,7 @@ A one-page Power BI dashboard giving Spotify's management a quarterly view of re
 
 **MSc Data Analytics, De Montfort University (2025)** · Business Intelligence module · Group project
 
-![Spotify Operations Dashboard](spotify_dashboard.jpg)
+![Spotify Operations Dashboard](Spotify%20Dashboard.jpg)
 
 ## My role
 This was a five-person group assignment on Spotify's business intelligence: decision types, BI architecture, value proposition, BI strategy and dashboard design. **I designed and built this Power BI dashboard**, including the data tables, DAX measures and layout. I also wrote the report section on day-to-day operational decisions.
@@ -34,8 +34,8 @@ Figures are based on Spotify's public 2024 reporting, with some values approxima
 ## Files
 | File | Description |
 |---|---|
-| `Spotify_final.pbix` | Power BI dashboard (open in Power BI Desktop) |
-| `spotify_dashboard.jpg` | Dashboard screenshot |
+| `Spotify final.pbix` | Power BI dashboard (open in Power BI Desktop) |
+| `Spotify Dashboard.jpg` | Dashboard screenshot |
 
 ## Author
 **Affan Ahmad Khan** · [LinkedIn](https://www.linkedin.com/in/affanahmad66/) · [Other projects](https://github.com/affanahmad66)
